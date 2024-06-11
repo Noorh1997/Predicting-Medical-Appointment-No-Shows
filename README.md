@@ -1,4 +1,3 @@
-# Predicting-Medical-Appointment-No-Shows
 
 # Medical Appointment No-Shows: Data Scientist Capstone Project
 
@@ -24,7 +23,6 @@ This project analyzes a dataset of medical appointments to understand the factor
 - `notebook.ipynb`: Project code including data wrangling, exploratory data analysis, model implementation, and results.
 - `No-show appointments.csv`: Dataset used for the project.
 - `README.md`: Project documentation and overview.
-- `blog_post.md`: Draft of the Medium blog post detailing the project.
 
 ## Summary of Results
 - **Data Cleaning and Exploration**: Cleaned data by converting dates, dropping unnecessary columns, and encoding categorical variables.
